@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='1. Alıştırma - Temel Aritmetik'/>
+        <page name='2. Uygulama - Fitness Hesaplamaları'/>
+        <page name='3. Alıştırma - Compound Assignment'/>
+        <page name='4. Uygulama - Adım Sayma'/>
+        <page name='5. Alıştırma - İşlem Önceliği'/>
+        <page name='6. Uygulama - İleri Fitness Hesaplamaları'/>
+        <page name='7. Alıştırma - Sayı Tiplerini Çevirme'/>
+        <page name='8. Uygulama - Tip Çevirme'/>
+    </pages>
+</playground>

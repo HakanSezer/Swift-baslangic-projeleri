@@ -1,0 +1,30 @@
+/*:
+ ## Alıştırma - For-In Döngüleri
+ 
+ 1 ila 100 arasındaki sayıların üzerinden geçerek her birinin değerini konsola yazdıran bir for-in döngüsü yazın.
+ */
+for index in 1...1 {
+    print("Sayılar: \(index)")
+}
+
+/*:
+ Aşağıdaki `alfabe` string'inin içerisinde yer alan her karakterin üzerinden geçerek o karakteri ve index'ini konsola yazdıran bir for-in döngüsü yazın.
+ */
+let alfabe = "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
+
+
+for index in alfabe {
+    print("Harfler: \(index)")
+}
+
+
+/*:
+ Key'lerin ülkeler ve value'ların bu ülkelerin başkentleri olduğu, en az üç key/value çifti içeren bir `[String: String]` dictionary'si tanımlayın. Bir for-in döngüsü kullanarak her çiftin üzerinden geçin, key ve value'ları "Başkent, Ülke" (örneğin "Ankara, Türkiye") şeklinde konsola yazdırın.
+ */
+var ulke = ["Türkiye": "Ankara", "Fransa": "Paris", "Almanya": "Berlin"]
+
+for index in ulke {
+    print("İşte ülkeler ve başkentleri: \(index)")
+}
+
+//: sayfa 1 / 6  |  [Sonraki: Uygulama - Hareketler](@next)

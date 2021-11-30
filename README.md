@@ -1,7 +1,11 @@
-# Swift-baslangic-projeleri-1-Gun
+# Swift-baslangic-projeleri
 
-<h1> Yazılım dilinde neler öğrendim. </h1>
+<h3> Yazılım dilinde neler öğrendim. </h3>
+
 <ul> 
   <li> Swift'in başlangıçlardır. </li>
+  <li> Bu dersleri aldığım eğitimlerdeki etkinliklerimdir. <li>
 
 </ul>
+
+<p> Bu derslerin hepsi swift temellerini içermektedir ve işlenen ders içerikleri swift 5.1 üzerinden yapılmıştır. <p> 
